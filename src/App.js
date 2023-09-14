@@ -1,19 +1,19 @@
 import React from "react";
 import { Routes, Route } from "react-router-dom";
-import SelectCurrencies from "./Components/SelectCurrencies";
-import Accommodations from "./Components/Accommodations";
-import SelectedAccommodations from "./Components/SelectedAccommodations";
+import AboutMe from "./Components/AboutMe";
 import NavigationBar from "./Components/NavigationBar";
+import Projects from "./Components/Projects";
+
+import './i18n.js'
 const App = () => {
 
   return (
     <>
-    <NavigationBar></NavigationBar>
+      <NavigationBar></NavigationBar>
       < Routes >
-        <Route path="/" element={<SelectCurrencies />} />
-        <Route path="/SelectCurrencies" element={<SelectCurrencies />} />
-        <Route path="/Accommodations" element={<Accommodations />} />
-        <Route path="/SelectedAccommodations" element={<SelectedAccommodations />} />
+        <Route path="/" element={<AboutMe />} />
+        <Route path="/AboutMe" element={<AboutMe />} />
+        <Route path="/Accommodations" element={<Projects />} />
       </Routes>
     </>
   );
