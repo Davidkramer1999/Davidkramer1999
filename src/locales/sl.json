@@ -1,5 +1,5 @@
 {
-  "myStory": "Moja zgodba",
+  "myStory": "O meni",
   "projects": "Projekti",
   "language": "Jezik",
   "contactMe": "Kontakt",
@@ -25,5 +25,9 @@
   "message": "Sporočilo",
   "getInTouch": "Kontakt",
   "btnSend": "Pošlji",
-  "weatherApp": "Ogled vremena v US mestih"
+  "weatherApp": "Ogled vremena v ameriških mestih",
+  "calculatorDescription": "Aplikacija za izračun",
+  "reservationDescription": "Hitre rezervacije",
+  "weather": "Preveri vreme v mestih",
+  "weatherDescription": "Oglejte si podrobnosti o vremenu"
 }

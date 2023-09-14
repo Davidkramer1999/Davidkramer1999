@@ -1,8 +1,10 @@
 import React from 'react'
 import { NavLink } from "react-router-dom";
 import LanguageSelector from './LanguageSelector';
+import { useTranslation } from 'react-i18next';
 
 export default function NavigationBar() {
+ const { t} = useTranslation();
 return (
   <nav className="bg-gray-200 relative p-3" >
     <div className="container mx-auto px-6 flex justify-center items-center">
@@ -12,7 +14,7 @@ return (
             to="/AboutMe" 
             className="text-black hover:text-blue-500"
           >
-            My story
+      {t('myStory')}
           </NavLink>
         </li>
         <li>
@@ -20,7 +22,7 @@ return (
             to="/Accommodations" 
             className="text-black hover:text-blue-500"
           >
-            Projects
+       {t('projects')}
           </NavLink>
         </li>
       </ul>

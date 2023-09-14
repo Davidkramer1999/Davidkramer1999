@@ -2,8 +2,11 @@
 
 import React, { useState} from 'react'
 import Card from "./Card";
+
 import { useTranslation } from 'react-i18next';
+
 import CircleImage from "./CircleImage";
+
 import gitHub from '../images/github.jpg'
 import linkedin  from '../images/likined.png' 
 import cv  from '../images/cv.jpg' 

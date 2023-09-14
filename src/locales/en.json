@@ -1,5 +1,5 @@
 {
-  "myStory": "My story",
+  "myStory": "About me",
   "projects": "Projects",
   "language": "Language",
   "contactMe": "Contact me",
@@ -13,8 +13,12 @@
   "knowledgeDescription": "React, Vue, Angular, JavaScript,NodeExpress, Laravel, Sequlize, GraphQL, MySQL, CouchBase, Python, Django ",
   "myExperiences": "My experiences💪",
   "myExperiencesDescription": "I've started my journey in December 2020. They have taught me how to code. Almost after two years I wanted to get more experiences in other companies as well. Then I joined another company based in Maribor where my journey ended at the beginning of February 2023",
-  "calculator": "So you don't need to do math",
-  "reservation": "Make your reservation today!",
+  "calculator": "Calculator",
+  "calculatorDescription": "A calculator app",
+  "reservation": "Reservation",
+  "reservationDescription": "Quick reservations",
+  "weather": "Check weather cities",
+  "weatherDescription": "See weather details",
   "connectWithMe": "Connect with me: ",
   "connectWithMeE": "Connect with me ",
   "moreToCome": "More to come",
@@ -23,6 +27,5 @@
   "name": "Name",
   "message": "Message",
   "getInTouch": "Let's get in touch",
-  "btnSend": "Send",
-  "weatherApp": "Check weather in US cities"
+  "btnSend": "Send"
 }
