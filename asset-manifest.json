@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Davidkramer1999/PersonalWebsite/static/css/main.3d9b54b1.css",
-    "main.js": "/Davidkramer1999/PersonalWebsite/static/js/main.481b8346.js",
+    "main.css": "/Davidkramer1999/PersonalWebsite/static/css/main.1ff1e578.css",
+    "main.js": "/Davidkramer1999/PersonalWebsite/static/js/main.7dc7edb5.js",
     "static/js/787.835c4676.chunk.js": "/Davidkramer1999/PersonalWebsite/static/js/787.835c4676.chunk.js",
     "static/media/DavidKramerCV.pdf": "/Davidkramer1999/PersonalWebsite/static/media/DavidKramerCV.eb3005c7c8384b3e9d5c.pdf",
     "static/media/github.jpg": "/Davidkramer1999/PersonalWebsite/static/media/github.180c6af27169a3dc37bb.jpg",
     "static/media/weatherApp.jpg": "/Davidkramer1999/PersonalWebsite/static/media/weatherApp.4c2527f2f778ae691a69.jpg",
     "static/media/calculator.jpg": "/Davidkramer1999/PersonalWebsite/static/media/calculator.73162ca8355f5ea4a524.jpg",
     "index.html": "/Davidkramer1999/PersonalWebsite/index.html",
-    "main.3d9b54b1.css.map": "/Davidkramer1999/PersonalWebsite/static/css/main.3d9b54b1.css.map",
-    "main.481b8346.js.map": "/Davidkramer1999/PersonalWebsite/static/js/main.481b8346.js.map",
+    "main.1ff1e578.css.map": "/Davidkramer1999/PersonalWebsite/static/css/main.1ff1e578.css.map",
+    "main.7dc7edb5.js.map": "/Davidkramer1999/PersonalWebsite/static/js/main.7dc7edb5.js.map",
     "787.835c4676.chunk.js.map": "/Davidkramer1999/PersonalWebsite/static/js/787.835c4676.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d9b54b1.css",
-    "static/js/main.481b8346.js"
+    "static/css/main.1ff1e578.css",
+    "static/js/main.7dc7edb5.js"
   ]
 }
